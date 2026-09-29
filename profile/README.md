@@ -4,4 +4,4 @@ Odysea is a software studio based in Costa Rica, founded on the belief that tech
 
 Our approach starts with listening and learning how work actually happens. We value depth, thoughtful engineering, and lessons earned through real problems. Those values guide us toward tools that reduce repetitive work, make information useful, and help people act with greater clarity while keeping decisions in their hands. We want more people and businesses to have access to technology that expands what they can accomplish.
 
-Dream out loud.
+## Dream out loud.
