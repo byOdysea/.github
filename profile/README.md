@@ -1,13 +1,7 @@
 ## About Us
 
-At Odysea our mission is to provide innovative solutions that promote a new way of thinking and approaching your goals. 
+Odysea is a software studio based in Costa Rica, founded on the belief that technology should give people more room to think, create, and pursue meaningful work. We see AI as one of the defining opportunities of our generation. Making that opportunity valuable requires care in how we build it, an understanding of the people using it, and respect for the judgment that remains theirs. We believe software should fit the language, habits, and needs of each business, and evolve alongside it.
 
-We want our users to harness their full potential and make their dreams a reality as we believe that with the right tools and support anything is possible.
+Our approach starts with listening and learning how work actually happens. We value depth, thoughtful engineering, and lessons earned through real problems. Those values guide us toward tools that reduce repetitive work, make information useful, and help people act with greater clarity while keeping decisions in their hands. We want more people and businesses to have access to technology that expands what they can accomplish.
 
-## Data Privacy
-
-We also firmly believe in the ownership of your data. Nowadays, too much of your data is stored on another’s machine without a second thought, and with it goes your intellectual property.
-
-With laserfocus, you choose what data you are storing and can actually use it to benefit you and your projects.
-
-Welcome to the new age of human computer interaction, the symbiosis.
+Dream out loud.
